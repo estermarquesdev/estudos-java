@@ -1,20 +1,23 @@
-# Estudos de Java
+# Fundamentos
 
-Repositório de estudos práticos de lógica de programação e fundamentos de Java, 
-organizado por tema conforme avanço nos estudos.
+Exercícios introdutórios de Java: estrutura básica de um programa, variáveis 
+e tipos primitivos.
 
-## Estrutura
+## OlaMundo.java
 
-| Pasta | Conteúdo |
-|-------|----------|
-| `01-fundamentos` | Variáveis, tipos primitivos, entrada e saída de dados |
+Primeiro programa em Java, utilizando `System.out.println()` para exibir uma 
+mensagem no console.
 
-## Próximos passos
+**Conceitos aplicados:** estrutura de uma classe Java, método `main`, saída de 
+dados no console.
 
-- Estruturas condicionais
-- Laços de repetição
-- Métodos
-- Arrays
+## EstudandoJava.java
+
+Declara uma variável do tipo `boolean` e exibe seu valor no console, 
+concatenando texto explicativo com `+`.
+
+**Conceitos aplicados:** tipo primitivo `boolean`, concatenação de String, 
+saída de dados no console.
 
 ## Sobre
 
